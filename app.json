@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "ST-88-Solution",
+    "slug": "ST-88-Solution",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/schedule book.png",
+    "splash": {
+      "image": "./assets/schedule book.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/schedule book.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/schedule book.png"
+    }
+  }
+}
